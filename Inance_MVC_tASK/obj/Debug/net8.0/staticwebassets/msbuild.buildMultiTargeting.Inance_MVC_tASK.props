@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Inance_MVC_tASK.props" />
+</Project>
